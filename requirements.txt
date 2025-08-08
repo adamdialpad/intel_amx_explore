@@ -1,0 +1,10 @@
+intel-extension-for-pytorch==2.0.0
+matplotlib==3.10.5
+matplotlib-inline==0.1.7
+numpy==1.26.4
+scikit-learn==1.5.2
+scikit-learn-intelex==2025.7.0
+scipy==1.16.1
+torch==2.0.0+cpu
+torchaudio==2.0.0+cpu
+torchvision==0.15.0+cpu
